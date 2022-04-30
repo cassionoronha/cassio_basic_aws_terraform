@@ -13,3 +13,4 @@ variable "suffix" {}
 #VPC
 variable "vpc_cidr_block" {}
 variable "public_a_cidr_block" {}
+variable "public_b_cidr_block" {}
